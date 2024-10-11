@@ -53,5 +53,10 @@
 - Email: [atzulfikar45@gmail.com](mailto:atzulfikar45@gmail.com)
 - LinkedIn: [Ataka Dzulfikar](https://www.linkedin.com/in/ataka-dzulfikar/)
 
+## 📶GitHub Stats:
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=danendradipa&theme=radical&hide_border=false&include_all_commits=true"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danendradipa&theme=radical&layout=compact"> 
+
 Thanks for visiting!
 
