@@ -62,7 +62,7 @@
 ## 📫 How to reach me
 
 - Email: [atzulfikar45@gmail.com](mailto:atzulfikar45@gmail.com)
- LinkedIn: [Ataka Dzulfikar](https://www.linkedin.com/in/ataka-dzulfikar/)
+- LinkedIn: [Ataka Dzulfikar](https://www.linkedin.com/in/ataka-dzulfikar/)
 
 Thanks for visiting!
 
