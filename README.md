@@ -5,13 +5,12 @@
 
 ---
 
-## 🚀 Skills
+## 🚀 Interest in
 
 - **Frontend Development**
 - **Mobile Development**
 - **UI/UX Design**
 - **Artificial Intelligence**
-- **Software Engineering**
 
 ---
 
