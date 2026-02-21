@@ -14,6 +14,7 @@
 
 ---
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
@@ -53,10 +54,17 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atzulf&theme=blue-navy&locale=jv)](https://git.io/streak-stats) <br/>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="700" src="https://github-readme-streak-stats.herokuapp.com?user=atzulf&theme=blue-navy&locale=jv&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+<br>
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atzulf&theme=radical&layout=compact"> 
 
 ---
+
 
 
 ## 📫 How to reach me
