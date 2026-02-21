@@ -53,6 +53,7 @@
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atzulf&theme=dark&hide_border=false" /> <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atzulf&theme=radical&layout=compact"> 
 
 ---
