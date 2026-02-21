@@ -53,7 +53,7 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atzulf&theme=dark&hide_border=false" /> <br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atzulf&theme=blue-navy&locale=jv)](https://git.io/streak-stats) <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atzulf&theme=radical&layout=compact"> 
 
 ---
