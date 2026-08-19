@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ataka Dzulfikar</h1>
 <h3 align="center">A passionate Frontend Developer, Mobile Developer, and UI/UX Designer</h3>
 
-<p align="center">I am an Information Technology student at Universitas Negeri Yogyakarta, with a deep interest in learning and implementing new technologies to create meaningful digital experiences.</p>
+<p align="center">I am an Information Technology enthusiast, with a deep interest in learning and implementing new technologies to create meaningful digital experiences.</p>
 
 ---
 
